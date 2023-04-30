@@ -1,6 +1,6 @@
-# Python_Projects
+Curso-completo-de-Python.-Desde-0-hasta-Proyectos-con-Django
 
-Lo que aprenderás:
+Lo que veremos:
 
 Python desde 0
 Ejercicios para materializar lo aprendido
